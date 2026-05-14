@@ -1,5 +1,5 @@
 context:
-  version: "0.2.46"
+  version: "0.2.47"
 
 package:
   name: sqls
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/sqls-server/sqls/archive/v${{ version }}.tar.gz
-  sha256: 21ef6db4a0be220b249a90edee3555273c28755b52a25e51e3b798d90326d0c4
+  sha256: 0f3fb535bd4ca0fbe4ad05cfbf07d31514ee25102293a965bfbde89e38168b9c
 
 build:
   number: 0
